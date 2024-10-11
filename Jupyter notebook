@@ -1,0 +1,62 @@
+Jupyter notebook
+
+Summary of Exercises
+Exercise 1: Created a new Jupyter Notebook named DataScienceEcosystem.ipynb.
+
+Exercise 2: Added a markdown cell with the title using H1 style:
+
+# Data Science Tools and Ecosystem
+Exercise 3: Added an introductory markdown cell:
+
+In this notebook, Data Science Tools and Ecosystem are summarized.
+Exercise 4: Listed popular data science languages:
+
+Overview line: Some of the popular languages that Data Scientists use are:
+Ordered list with languages (e.g., Python, R, SQL).
+Exercise 5: Listed common data science libraries:
+
+Overview line: Some of the commonly used libraries used by Data Scientists include:
+Ordered list with libraries (e.g., Pandas, NumPy, Matplotlib).
+Exercise 6: Created a table of data science tools:
+
+markdown
+Copy code
+| Data Science Tools   |
+|----------------------|
+| Jupyter Notebooks     |
+| RStudio               |
+| Apache Zeppelin       |
+Exercise 7: Introduced arithmetic expression examples with H3 style:
+
+### Below are a few examples of evaluating arithmetic expressions in Python.
+Exercise 8: Code cell to evaluate (3*4)+5:
+
+python
+Copy code
+# This is a simple arithmetic expression to multiply then add integers
+result = (3 * 4) + 5
+result
+Exercise 9: Code cell to convert 200 minutes to hours:
+
+python
+Copy code
+# This will convert 200 minutes to hours by dividing by 60
+hours = 200 / 60
+hours
+Exercise 10: Listed objectives in a markdown cell:
+
+markdown
+Copy code
+**Objectives:**
+- List popular languages for Data Science.
+- List common libraries used by Data Scientists.
+- Describe data science tools.
+- Demonstrate arithmetic operations in Python.
+Exercise 11: Indicated the author's name:
+markdown
+Copy code
+## Author
+Your Name Here
+Final Steps
+Ensure you take the necessary screenshots of each cell as required.
+Save your notebook and upload it to a public repository on GitHub.
